@@ -2,11 +2,11 @@
 
 ![Logo](./logo.png)
 
-#### Video Demo: <https://youtu.be/WQsElH6-7Og>
+Priorities is a simple task management application for macOS that helps you keep track of your priorities.
 
-## Overview
+[![MacOs](https://img.shields.io/static/v1?label=&message=MacOs&color=black)](https://) [![Made with - Python & PyQt5](https://img.shields.io/badge/Made_with-Python_%26_PyQt5-blue)](https://)
 
-Priorities is a simple task management application for macOS that helps you keep track of your priorities. It is written in Python and uses the PyQt5 library, which allows complete customization of the user interface. The app features a user-friendly interface that changes color based on the number of tasks you have:
+It is written in Python and uses the PyQt5 library, which allows complete customization of the user interface. The app features a user-friendly interface that changes color based on the number of tasks you have:
 
 - Blue when you have a few priorities to complete.
 - Yellow when you have some priorities.
@@ -18,7 +18,7 @@ The user interface allows navigation with both the mouse and the keyboard (tabs,
 
 Additionally, the app features a text editor functionality for selected tasks. This means you can easily edit a task by selecting it. Moreover, the application supports text wrapping when the text is too long. This ensures that all the information entered for a task is visible and easy to read, even if it is a lengthy sentence or includes several details.
 
-
+#### Video Demo: <https://youtu.be/WQsElH6-7Og>
 
 ## Usage
 
@@ -39,4 +39,4 @@ Contributions are welcome! Please open an issue or submit a pull request on [Git
 
 ## Credits
 
-&copy; Alex Arroyo 2023
+© Alex Arroyo 2023
